@@ -51,7 +51,7 @@ Hi there, I'm Chris
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 ![Singularity](https://img.shields.io/badge/-Singularity-000000?style=flat&logo=Singularity&logoColor=326CE5)
 
-###### Data Science / Machine Learning / Artificial Intelligence
+###### Data Science
 
 ![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
