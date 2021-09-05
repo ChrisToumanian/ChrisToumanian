@@ -22,15 +22,13 @@ Hi there, I'm Chris
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=339933)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
 
 ###### Database
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=76D04B)
-
-###### API
-
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
 
 ###### Package managers
 
