@@ -48,5 +48,5 @@ Hi there, I'm Chris
 ###### Container management
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
-![Singularity](https://img.shields.io/badge/-Singularity-000000?style=flat&logo=Singularity&logoColor=326CE5)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
+![Singularity](https://img.shields.io/badge/-Singularity-000000?style=flat&logo=Singularity&logoColor=326CE5)
