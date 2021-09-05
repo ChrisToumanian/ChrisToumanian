@@ -2,12 +2,12 @@
 Hey there, I'm Chris
 </h1>
 
-## 📞 Contact me
+## Contact Info
 
 [![Linkedin Badge](https://img.shields.io/badge/-christophertoumanian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-toumanian-169aa953/)](https://www.linkedin.com/in/christopher-toumanian-169aa953/)
 [![Gmail Badge](https://img.shields.io/badge/-cctoumanian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cctoumanian@gmail.com)](mailto:cctoumanian@gmail.com)
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ###### Frontend
 
