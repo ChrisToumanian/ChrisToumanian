@@ -40,6 +40,7 @@ Hi there, I'm Chris
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=FCC624)
 ![Apple](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple&logoColor=999999)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ###### Deployment services
 
