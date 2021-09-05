@@ -25,6 +25,7 @@ Hi there, I'm Chris
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
 ![nodemon](https://img.shields.io/badge/-nodemon-000000?style=flat&logo=nodemon&logoColor=339933)
+![pm2](https://img.shields.io/badge/-pm2-000000?style=flat&logo=pm2&logoColor=339933)
 
 ###### Desktop
 
