@@ -24,16 +24,16 @@ Hi there, I'm Chris
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=339933)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=339933)
 
-###### Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=76D04B)
-
 ###### Desktop
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
 ![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=339933)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=339933)
+
+###### Database
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=76D04B)
 
 ###### Package managers
 
