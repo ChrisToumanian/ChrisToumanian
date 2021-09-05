@@ -1,5 +1,5 @@
 <h1 align="center">
-Hey there, I'm Chris
+Hi there, I'm Chris
 </h1>
 
 ## Contact Info
