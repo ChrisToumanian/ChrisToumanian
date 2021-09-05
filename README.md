@@ -32,7 +32,7 @@ Hi there, I'm Chris
 ###### Desktop
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=C#&logoColor=339933)
+![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=339933)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=339933)
 
 ###### Package managers
