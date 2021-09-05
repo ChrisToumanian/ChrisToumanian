@@ -43,6 +43,7 @@ Hi there, I'm Chris
 ###### Deployment services
 
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FFFFFF)
+![Linode](https://img.shields.io/badge/-Linode-000000?style=flat&logo=Linode&logoColor=FFFFFF)
 
 ###### Container management
 
