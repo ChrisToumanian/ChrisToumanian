@@ -4,7 +4,7 @@ Hey there, I'm Chris
 
 ## 📞 Contact me
 
-![Linkedin Badge](https://img.shields.io/badge/-christopher-toumanian-169aa953-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-toumanian-169aa953/)](https://www.linkedin.com/in/christopher-toumanian-169aa953/)
+[![Linkedin Badge](https://img.shields.io/badge/-christopher-toumanian-169aa953-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-toumanian-169aa953/)](https://www.linkedin.com/in/christopher-toumanian-169aa953/)
 [![Gmail Badge](https://img.shields.io/badge/-cctoumanian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cctoumanian@gmail.com)](mailto:cctoumanian@gmail.com)
 
 ## 🔧 Technologies & Tools
