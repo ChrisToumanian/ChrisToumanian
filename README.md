@@ -21,7 +21,6 @@ Hi there, I'm Chris
 ###### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
-![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=339933)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
