@@ -20,9 +20,11 @@ Hi there, I'm Chris
 ###### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=339933)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
+![nodemon](https://img.shields.io/badge/-nodemon-000000?style=flat&logo=nodemon&logoColor=339933)
 
 ###### Desktop
 
@@ -57,7 +59,6 @@ Hi there, I'm Chris
 
 ###### Data Science
 
-![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?&style=flat&logo=pandas&logoColor=transparent")
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?&style=flat&logo=TensorFlow&logoColor=transparent)
