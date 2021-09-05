@@ -22,9 +22,8 @@ Hi there, I'm Chris
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=339933)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=339933)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=339933)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=339933)
 
 ###### Database
 
@@ -51,3 +50,20 @@ Hi there, I'm Chris
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 ![Singularity](https://img.shields.io/badge/-Singularity-000000?style=flat&logo=Singularity&logoColor=326CE5)
+
+###### Data Science / Machine Learning / Artificial Intelligence
+
+![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
+![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
+![Pandas](https://img.shields.io/badge/Pandas-000000?&style=flat&logo=pandas&logoColor=transparent")
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?&style=flat&logo=TensorFlow&logoColor=transparent)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?&style=flat&logo=PyTorch&logoColor=transparent)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ChrisToumanian/ChrisToumanian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisToumanian&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</>
+<a href="https://github.com/ChrisToumanian/ChrisToumanian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisToumanian&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="ChrisToumanian's GitHub Stats" />
+</a>
