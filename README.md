@@ -23,7 +23,7 @@ Hi there, I'm Chris
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=339933)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
-![BASH](https://img.shields.io/badge/-BASH-000000?style=flat&logo=BASH&logoColor=339933)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=339933)
 
 ###### Database
 
