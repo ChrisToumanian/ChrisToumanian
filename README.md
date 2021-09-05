@@ -11,10 +11,9 @@ Hi there, I'm Chris
 
 ###### Frontend
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=61DAFB)
 
@@ -24,6 +23,7 @@ Hi there, I'm Chris
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=339933)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
+![BASH](https://img.shields.io/badge/-BASH-000000?style=flat&logo=BASH&logoColor=339933)
 
 ###### Database
 
