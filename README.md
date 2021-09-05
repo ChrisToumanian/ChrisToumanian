@@ -24,6 +24,7 @@ Hi there, I'm Chris
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=339933)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=339933)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=339933)
 
 ###### Database
 
