@@ -16,6 +16,7 @@ Hi there, I'm Chris
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=61DAFB)
 
 ###### Backend
 
