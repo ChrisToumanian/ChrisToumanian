@@ -66,12 +66,3 @@ Hi there, I'm Chris 👋
 ![Pandas](https://img.shields.io/badge/Pandas-000000?&style=flat&logo=pandas&logoColor=transparent")
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?&style=flat&logo=TensorFlow&logoColor=transparent)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?&style=flat&logo=PyTorch&logoColor=transparent)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/ChrisToumanian/ChrisToumanian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisToumanian&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</>
-<a href="https://github.com/ChrisToumanian/ChrisToumanian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisToumanian&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="ChrisToumanian's GitHub Stats" />
-</a>
